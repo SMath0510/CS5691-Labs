@@ -1,0 +1,699 @@
+Sat Sep 30 20:18:59 2023
+
+Process ID 2
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 24
+Logical Page Number 1 : Page Table Entry 25
+Logical Page Number 2 : Page Table Entry 26
+Logical Page Number 3 : Page Table Entry 27
+Logical Page Number 4 : Page Table Entry 28
+Logical Page Number 5 : Page Table Entry 29
+Logical Page Number 6 : Page Table Entry 30
+Logical Page Number 7 : Page Table Entry 31
+Logical Page Number 8 : Page Table Entry 32
+Logical Page Number 9 : Page Table Entry 33
+Logical Page Number 10 : Page Table Entry 34
+Logical Page Number 11 : Page Table Entry 35
+Logical Page Number 12 : Page Table Entry 36
+Logical Page Number 13 : Page Table Entry 37
+Logical Page Number 14 : Page Table Entry 38
+Logical Page Number 15 : Page Table Entry 39
+
+Process ID 3
+Process in Virtual Memory
+Logical Page Number 0 : Page Table Entry 16
+Logical Page Number 1 : Page Table Entry 17
+Logical Page Number 2 : Page Table Entry 18
+Logical Page Number 3 : Page Table Entry 19
+Logical Page Number 4 : Page Table Entry 20
+Logical Page Number 5 : Page Table Entry 21
+Logical Page Number 6 : Page Table Entry 22
+Logical Page Number 7 : Page Table Entry 23
+Logical Page Number 8 : Page Table Entry 24
+Logical Page Number 9 : Page Table Entry 25
+Logical Page Number 10 : Page Table Entry 26
+Logical Page Number 11 : Page Table Entry 27
+Logical Page Number 12 : Page Table Entry 28
+Logical Page Number 13 : Page Table Entry 29
+Logical Page Number 14 : Page Table Entry 30
+Logical Page Number 15 : Page Table Entry 31
+
+Process ID 4
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 8
+Logical Page Number 1 : Page Table Entry 9
+Logical Page Number 2 : Page Table Entry 10
+Logical Page Number 3 : Page Table Entry 11
+Logical Page Number 4 : Page Table Entry 12
+Logical Page Number 5 : Page Table Entry 13
+Logical Page Number 6 : Page Table Entry 14
+Logical Page Number 7 : Page Table Entry 15
+Logical Page Number 8 : Page Table Entry 16
+Logical Page Number 9 : Page Table Entry 17
+Logical Page Number 10 : Page Table Entry 18
+Logical Page Number 11 : Page Table Entry 19
+Logical Page Number 12 : Page Table Entry 20
+Logical Page Number 13 : Page Table Entry 21
+Logical Page Number 14 : Page Table Entry 22
+Logical Page Number 15 : Page Table Entry 23
+Logical Page Number 16 : Page Table Entry 40
+Logical Page Number 17 : Page Table Entry 41
+Logical Page Number 18 : Page Table Entry 42
+Logical Page Number 19 : Page Table Entry 43
+Logical Page Number 20 : Page Table Entry 44
+Logical Page Number 21 : Page Table Entry 45
+Logical Page Number 22 : Page Table Entry 46
+Logical Page Number 23 : Page Table Entry 47
+Logical Page Number 24 : Page Table Entry 48
+Logical Page Number 25 : Page Table Entry 49
+Logical Page Number 26 : Page Table Entry 50
+Logical Page Number 27 : Page Table Entry 51
+Logical Page Number 28 : Page Table Entry 52
+Logical Page Number 29 : Page Table Entry 53
+Logical Page Number 30 : Page Table Entry 54
+Logical Page Number 31 : Page Table Entry 55
+
+Sat Sep 30 20:18:59 2023
+
+Process ID 1
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 0
+Logical Page Number 1 : Page Table Entry 1
+Logical Page Number 2 : Page Table Entry 2
+Logical Page Number 3 : Page Table Entry 3
+Logical Page Number 4 : Page Table Entry 4
+Logical Page Number 5 : Page Table Entry 5
+Logical Page Number 6 : Page Table Entry 6
+Logical Page Number 7 : Page Table Entry 7
+
+Process ID 2
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 24
+Logical Page Number 1 : Page Table Entry 25
+Logical Page Number 2 : Page Table Entry 26
+Logical Page Number 3 : Page Table Entry 27
+Logical Page Number 4 : Page Table Entry 28
+Logical Page Number 5 : Page Table Entry 29
+Logical Page Number 6 : Page Table Entry 30
+Logical Page Number 7 : Page Table Entry 31
+Logical Page Number 8 : Page Table Entry 32
+Logical Page Number 9 : Page Table Entry 33
+Logical Page Number 10 : Page Table Entry 34
+Logical Page Number 11 : Page Table Entry 35
+Logical Page Number 12 : Page Table Entry 36
+Logical Page Number 13 : Page Table Entry 37
+Logical Page Number 14 : Page Table Entry 38
+Logical Page Number 15 : Page Table Entry 39
+
+Process ID 3
+Process in Virtual Memory
+Logical Page Number 0 : Page Table Entry 16
+Logical Page Number 1 : Page Table Entry 17
+Logical Page Number 2 : Page Table Entry 18
+Logical Page Number 3 : Page Table Entry 19
+Logical Page Number 4 : Page Table Entry 20
+Logical Page Number 5 : Page Table Entry 21
+Logical Page Number 6 : Page Table Entry 22
+Logical Page Number 7 : Page Table Entry 23
+Logical Page Number 8 : Page Table Entry 24
+Logical Page Number 9 : Page Table Entry 25
+Logical Page Number 10 : Page Table Entry 26
+Logical Page Number 11 : Page Table Entry 27
+Logical Page Number 12 : Page Table Entry 28
+Logical Page Number 13 : Page Table Entry 29
+Logical Page Number 14 : Page Table Entry 30
+Logical Page Number 15 : Page Table Entry 31
+
+Process ID 4
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 8
+Logical Page Number 1 : Page Table Entry 9
+Logical Page Number 2 : Page Table Entry 10
+Logical Page Number 3 : Page Table Entry 11
+Logical Page Number 4 : Page Table Entry 12
+Logical Page Number 5 : Page Table Entry 13
+Logical Page Number 6 : Page Table Entry 14
+Logical Page Number 7 : Page Table Entry 15
+Logical Page Number 8 : Page Table Entry 16
+Logical Page Number 9 : Page Table Entry 17
+Logical Page Number 10 : Page Table Entry 18
+Logical Page Number 11 : Page Table Entry 19
+Logical Page Number 12 : Page Table Entry 20
+Logical Page Number 13 : Page Table Entry 21
+Logical Page Number 14 : Page Table Entry 22
+Logical Page Number 15 : Page Table Entry 23
+Logical Page Number 16 : Page Table Entry 40
+Logical Page Number 17 : Page Table Entry 41
+Logical Page Number 18 : Page Table Entry 42
+Logical Page Number 19 : Page Table Entry 43
+Logical Page Number 20 : Page Table Entry 44
+Logical Page Number 21 : Page Table Entry 45
+Logical Page Number 22 : Page Table Entry 46
+Logical Page Number 23 : Page Table Entry 47
+Logical Page Number 24 : Page Table Entry 48
+Logical Page Number 25 : Page Table Entry 49
+Logical Page Number 26 : Page Table Entry 50
+Logical Page Number 27 : Page Table Entry 51
+Logical Page Number 28 : Page Table Entry 52
+Logical Page Number 29 : Page Table Entry 53
+Logical Page Number 30 : Page Table Entry 54
+Logical Page Number 31 : Page Table Entry 55
+
+Sat Sep 30 20:18:59 2023
+
+Process ID 2
+Process in Virtual Memory
+Logical Page Number 0 : Page Table Entry 0
+Logical Page Number 1 : Page Table Entry 1
+Logical Page Number 2 : Page Table Entry 2
+Logical Page Number 3 : Page Table Entry 3
+Logical Page Number 4 : Page Table Entry 4
+Logical Page Number 5 : Page Table Entry 5
+Logical Page Number 6 : Page Table Entry 6
+Logical Page Number 7 : Page Table Entry 7
+Logical Page Number 8 : Page Table Entry 8
+Logical Page Number 9 : Page Table Entry 9
+Logical Page Number 10 : Page Table Entry 10
+Logical Page Number 11 : Page Table Entry 11
+Logical Page Number 12 : Page Table Entry 12
+Logical Page Number 13 : Page Table Entry 13
+Logical Page Number 14 : Page Table Entry 14
+Logical Page Number 15 : Page Table Entry 15
+
+Sat Sep 30 20:18:59 2023
+
+Process ID 1
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 0
+Logical Page Number 1 : Page Table Entry 1
+Logical Page Number 2 : Page Table Entry 2
+Logical Page Number 3 : Page Table Entry 3
+Logical Page Number 4 : Page Table Entry 4
+Logical Page Number 5 : Page Table Entry 5
+Logical Page Number 6 : Page Table Entry 6
+Logical Page Number 7 : Page Table Entry 7
+
+Process ID 2
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 8
+Logical Page Number 1 : Page Table Entry 9
+Logical Page Number 2 : Page Table Entry 10
+Logical Page Number 3 : Page Table Entry 11
+Logical Page Number 4 : Page Table Entry 12
+Logical Page Number 5 : Page Table Entry 13
+Logical Page Number 6 : Page Table Entry 14
+Logical Page Number 7 : Page Table Entry 15
+Logical Page Number 8 : Page Table Entry 16
+Logical Page Number 9 : Page Table Entry 17
+Logical Page Number 10 : Page Table Entry 18
+Logical Page Number 11 : Page Table Entry 19
+Logical Page Number 12 : Page Table Entry 20
+Logical Page Number 13 : Page Table Entry 21
+Logical Page Number 14 : Page Table Entry 22
+Logical Page Number 15 : Page Table Entry 23
+
+Process ID 3
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 24
+Logical Page Number 1 : Page Table Entry 25
+Logical Page Number 2 : Page Table Entry 26
+Logical Page Number 3 : Page Table Entry 27
+Logical Page Number 4 : Page Table Entry 28
+Logical Page Number 5 : Page Table Entry 29
+Logical Page Number 6 : Page Table Entry 30
+Logical Page Number 7 : Page Table Entry 31
+Logical Page Number 8 : Page Table Entry 32
+Logical Page Number 9 : Page Table Entry 33
+Logical Page Number 10 : Page Table Entry 34
+Logical Page Number 11 : Page Table Entry 35
+Logical Page Number 12 : Page Table Entry 36
+Logical Page Number 13 : Page Table Entry 37
+Logical Page Number 14 : Page Table Entry 38
+Logical Page Number 15 : Page Table Entry 39
+
+Sun Oct  1 12:03:20 2023
+
+Process ID 2
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 0
+Logical Page Number 1 : Page Table Entry 1
+Logical Page Number 2 : Page Table Entry 2
+Logical Page Number 3 : Page Table Entry 3
+Logical Page Number 4 : Page Table Entry 4
+Logical Page Number 5 : Page Table Entry 5
+Logical Page Number 6 : Page Table Entry 6
+Logical Page Number 7 : Page Table Entry 7
+Logical Page Number 8 : Page Table Entry 56
+Logical Page Number 9 : Page Table Entry 57
+Logical Page Number 10 : Page Table Entry 58
+Logical Page Number 11 : Page Table Entry 59
+Logical Page Number 12 : Page Table Entry 60
+Logical Page Number 13 : Page Table Entry 61
+Logical Page Number 14 : Page Table Entry 62
+Logical Page Number 15 : Page Table Entry 63
+
+Process ID 3
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 24
+Logical Page Number 1 : Page Table Entry 25
+Logical Page Number 2 : Page Table Entry 26
+Logical Page Number 3 : Page Table Entry 27
+Logical Page Number 4 : Page Table Entry 28
+Logical Page Number 5 : Page Table Entry 29
+Logical Page Number 6 : Page Table Entry 30
+Logical Page Number 7 : Page Table Entry 31
+Logical Page Number 8 : Page Table Entry 32
+Logical Page Number 9 : Page Table Entry 33
+Logical Page Number 10 : Page Table Entry 34
+Logical Page Number 11 : Page Table Entry 35
+Logical Page Number 12 : Page Table Entry 36
+Logical Page Number 13 : Page Table Entry 37
+Logical Page Number 14 : Page Table Entry 38
+Logical Page Number 15 : Page Table Entry 39
+
+Process ID 4
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 8
+Logical Page Number 1 : Page Table Entry 9
+Logical Page Number 2 : Page Table Entry 10
+Logical Page Number 3 : Page Table Entry 11
+Logical Page Number 4 : Page Table Entry 12
+Logical Page Number 5 : Page Table Entry 13
+Logical Page Number 6 : Page Table Entry 14
+Logical Page Number 7 : Page Table Entry 15
+Logical Page Number 8 : Page Table Entry 16
+Logical Page Number 9 : Page Table Entry 17
+Logical Page Number 10 : Page Table Entry 18
+Logical Page Number 11 : Page Table Entry 19
+Logical Page Number 12 : Page Table Entry 20
+Logical Page Number 13 : Page Table Entry 21
+Logical Page Number 14 : Page Table Entry 22
+Logical Page Number 15 : Page Table Entry 23
+Logical Page Number 16 : Page Table Entry 40
+Logical Page Number 17 : Page Table Entry 41
+Logical Page Number 18 : Page Table Entry 42
+Logical Page Number 19 : Page Table Entry 43
+Logical Page Number 20 : Page Table Entry 44
+Logical Page Number 21 : Page Table Entry 45
+Logical Page Number 22 : Page Table Entry 46
+Logical Page Number 23 : Page Table Entry 47
+Logical Page Number 24 : Page Table Entry 48
+Logical Page Number 25 : Page Table Entry 49
+Logical Page Number 26 : Page Table Entry 50
+Logical Page Number 27 : Page Table Entry 51
+Logical Page Number 28 : Page Table Entry 52
+Logical Page Number 29 : Page Table Entry 53
+Logical Page Number 30 : Page Table Entry 54
+Logical Page Number 31 : Page Table Entry 55
+
+Sun Oct  1 12:03:20 2023
+
+Process ID 1
+Process in Virtual Memory
+Logical Page Number 0 : Page Table Entry 16
+Logical Page Number 1 : Page Table Entry 17
+Logical Page Number 2 : Page Table Entry 18
+Logical Page Number 3 : Page Table Entry 19
+Logical Page Number 4 : Page Table Entry 20
+Logical Page Number 5 : Page Table Entry 21
+Logical Page Number 6 : Page Table Entry 22
+Logical Page Number 7 : Page Table Entry 23
+
+Process ID 2
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 0
+Logical Page Number 1 : Page Table Entry 1
+Logical Page Number 2 : Page Table Entry 2
+Logical Page Number 3 : Page Table Entry 3
+Logical Page Number 4 : Page Table Entry 4
+Logical Page Number 5 : Page Table Entry 5
+Logical Page Number 6 : Page Table Entry 6
+Logical Page Number 7 : Page Table Entry 7
+Logical Page Number 8 : Page Table Entry 56
+Logical Page Number 9 : Page Table Entry 57
+Logical Page Number 10 : Page Table Entry 58
+Logical Page Number 11 : Page Table Entry 59
+Logical Page Number 12 : Page Table Entry 60
+Logical Page Number 13 : Page Table Entry 61
+Logical Page Number 14 : Page Table Entry 62
+Logical Page Number 15 : Page Table Entry 63
+
+Process ID 3
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 24
+Logical Page Number 1 : Page Table Entry 25
+Logical Page Number 2 : Page Table Entry 26
+Logical Page Number 3 : Page Table Entry 27
+Logical Page Number 4 : Page Table Entry 28
+Logical Page Number 5 : Page Table Entry 29
+Logical Page Number 6 : Page Table Entry 30
+Logical Page Number 7 : Page Table Entry 31
+Logical Page Number 8 : Page Table Entry 32
+Logical Page Number 9 : Page Table Entry 33
+Logical Page Number 10 : Page Table Entry 34
+Logical Page Number 11 : Page Table Entry 35
+Logical Page Number 12 : Page Table Entry 36
+Logical Page Number 13 : Page Table Entry 37
+Logical Page Number 14 : Page Table Entry 38
+Logical Page Number 15 : Page Table Entry 39
+
+Process ID 4
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 8
+Logical Page Number 1 : Page Table Entry 9
+Logical Page Number 2 : Page Table Entry 10
+Logical Page Number 3 : Page Table Entry 11
+Logical Page Number 4 : Page Table Entry 12
+Logical Page Number 5 : Page Table Entry 13
+Logical Page Number 6 : Page Table Entry 14
+Logical Page Number 7 : Page Table Entry 15
+Logical Page Number 8 : Page Table Entry 16
+Logical Page Number 9 : Page Table Entry 17
+Logical Page Number 10 : Page Table Entry 18
+Logical Page Number 11 : Page Table Entry 19
+Logical Page Number 12 : Page Table Entry 20
+Logical Page Number 13 : Page Table Entry 21
+Logical Page Number 14 : Page Table Entry 22
+Logical Page Number 15 : Page Table Entry 23
+Logical Page Number 16 : Page Table Entry 40
+Logical Page Number 17 : Page Table Entry 41
+Logical Page Number 18 : Page Table Entry 42
+Logical Page Number 19 : Page Table Entry 43
+Logical Page Number 20 : Page Table Entry 44
+Logical Page Number 21 : Page Table Entry 45
+Logical Page Number 22 : Page Table Entry 46
+Logical Page Number 23 : Page Table Entry 47
+Logical Page Number 24 : Page Table Entry 48
+Logical Page Number 25 : Page Table Entry 49
+Logical Page Number 26 : Page Table Entry 50
+Logical Page Number 27 : Page Table Entry 51
+Logical Page Number 28 : Page Table Entry 52
+Logical Page Number 29 : Page Table Entry 53
+Logical Page Number 30 : Page Table Entry 54
+Logical Page Number 31 : Page Table Entry 55
+
+Sun Oct  1 12:03:20 2023
+
+Process ID 2
+Process in Virtual Memory
+Logical Page Number 0 : Page Table Entry 0
+Logical Page Number 1 : Page Table Entry 1
+Logical Page Number 2 : Page Table Entry 2
+Logical Page Number 3 : Page Table Entry 3
+Logical Page Number 4 : Page Table Entry 4
+Logical Page Number 5 : Page Table Entry 5
+Logical Page Number 6 : Page Table Entry 6
+Logical Page Number 7 : Page Table Entry 7
+Logical Page Number 8 : Page Table Entry 8
+Logical Page Number 9 : Page Table Entry 9
+Logical Page Number 10 : Page Table Entry 10
+Logical Page Number 11 : Page Table Entry 11
+Logical Page Number 12 : Page Table Entry 12
+Logical Page Number 13 : Page Table Entry 13
+Logical Page Number 14 : Page Table Entry 14
+Logical Page Number 15 : Page Table Entry 15
+
+Sun Oct  1 12:03:20 2023
+
+Process ID 1
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 0
+Logical Page Number 1 : Page Table Entry 1
+Logical Page Number 2 : Page Table Entry 2
+Logical Page Number 3 : Page Table Entry 3
+Logical Page Number 4 : Page Table Entry 4
+Logical Page Number 5 : Page Table Entry 5
+Logical Page Number 6 : Page Table Entry 6
+Logical Page Number 7 : Page Table Entry 7
+
+Process ID 2
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 8
+Logical Page Number 1 : Page Table Entry 9
+Logical Page Number 2 : Page Table Entry 10
+Logical Page Number 3 : Page Table Entry 11
+Logical Page Number 4 : Page Table Entry 12
+Logical Page Number 5 : Page Table Entry 13
+Logical Page Number 6 : Page Table Entry 14
+Logical Page Number 7 : Page Table Entry 15
+Logical Page Number 8 : Page Table Entry 16
+Logical Page Number 9 : Page Table Entry 17
+Logical Page Number 10 : Page Table Entry 18
+Logical Page Number 11 : Page Table Entry 19
+Logical Page Number 12 : Page Table Entry 20
+Logical Page Number 13 : Page Table Entry 21
+Logical Page Number 14 : Page Table Entry 22
+Logical Page Number 15 : Page Table Entry 23
+
+Process ID 3
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 24
+Logical Page Number 1 : Page Table Entry 25
+Logical Page Number 2 : Page Table Entry 26
+Logical Page Number 3 : Page Table Entry 27
+Logical Page Number 4 : Page Table Entry 28
+Logical Page Number 5 : Page Table Entry 29
+Logical Page Number 6 : Page Table Entry 30
+Logical Page Number 7 : Page Table Entry 31
+Logical Page Number 8 : Page Table Entry 32
+Logical Page Number 9 : Page Table Entry 33
+Logical Page Number 10 : Page Table Entry 34
+Logical Page Number 11 : Page Table Entry 35
+Logical Page Number 12 : Page Table Entry 36
+Logical Page Number 13 : Page Table Entry 37
+Logical Page Number 14 : Page Table Entry 38
+Logical Page Number 15 : Page Table Entry 39
+
+Sun Oct  1 12:04:12 2023
+
+Process ID 2
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 24
+Logical Page Number 1 : Page Table Entry 25
+Logical Page Number 2 : Page Table Entry 26
+Logical Page Number 3 : Page Table Entry 27
+Logical Page Number 4 : Page Table Entry 28
+Logical Page Number 5 : Page Table Entry 29
+Logical Page Number 6 : Page Table Entry 30
+Logical Page Number 7 : Page Table Entry 31
+Logical Page Number 8 : Page Table Entry 32
+Logical Page Number 9 : Page Table Entry 33
+Logical Page Number 10 : Page Table Entry 34
+Logical Page Number 11 : Page Table Entry 35
+Logical Page Number 12 : Page Table Entry 36
+Logical Page Number 13 : Page Table Entry 37
+Logical Page Number 14 : Page Table Entry 38
+Logical Page Number 15 : Page Table Entry 39
+
+Process ID 3
+Process in Virtual Memory
+Logical Page Number 0 : Page Table Entry 16
+Logical Page Number 1 : Page Table Entry 17
+Logical Page Number 2 : Page Table Entry 18
+Logical Page Number 3 : Page Table Entry 19
+Logical Page Number 4 : Page Table Entry 20
+Logical Page Number 5 : Page Table Entry 21
+Logical Page Number 6 : Page Table Entry 22
+Logical Page Number 7 : Page Table Entry 23
+Logical Page Number 8 : Page Table Entry 24
+Logical Page Number 9 : Page Table Entry 25
+Logical Page Number 10 : Page Table Entry 26
+Logical Page Number 11 : Page Table Entry 27
+Logical Page Number 12 : Page Table Entry 28
+Logical Page Number 13 : Page Table Entry 29
+Logical Page Number 14 : Page Table Entry 30
+Logical Page Number 15 : Page Table Entry 31
+
+Process ID 4
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 8
+Logical Page Number 1 : Page Table Entry 9
+Logical Page Number 2 : Page Table Entry 10
+Logical Page Number 3 : Page Table Entry 11
+Logical Page Number 4 : Page Table Entry 12
+Logical Page Number 5 : Page Table Entry 13
+Logical Page Number 6 : Page Table Entry 14
+Logical Page Number 7 : Page Table Entry 15
+Logical Page Number 8 : Page Table Entry 16
+Logical Page Number 9 : Page Table Entry 17
+Logical Page Number 10 : Page Table Entry 18
+Logical Page Number 11 : Page Table Entry 19
+Logical Page Number 12 : Page Table Entry 20
+Logical Page Number 13 : Page Table Entry 21
+Logical Page Number 14 : Page Table Entry 22
+Logical Page Number 15 : Page Table Entry 23
+Logical Page Number 16 : Page Table Entry 40
+Logical Page Number 17 : Page Table Entry 41
+Logical Page Number 18 : Page Table Entry 42
+Logical Page Number 19 : Page Table Entry 43
+Logical Page Number 20 : Page Table Entry 44
+Logical Page Number 21 : Page Table Entry 45
+Logical Page Number 22 : Page Table Entry 46
+Logical Page Number 23 : Page Table Entry 47
+Logical Page Number 24 : Page Table Entry 48
+Logical Page Number 25 : Page Table Entry 49
+Logical Page Number 26 : Page Table Entry 50
+Logical Page Number 27 : Page Table Entry 51
+Logical Page Number 28 : Page Table Entry 52
+Logical Page Number 29 : Page Table Entry 53
+Logical Page Number 30 : Page Table Entry 54
+Logical Page Number 31 : Page Table Entry 55
+
+Sun Oct  1 12:04:12 2023
+
+Process ID 1
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 0
+Logical Page Number 1 : Page Table Entry 1
+Logical Page Number 2 : Page Table Entry 2
+Logical Page Number 3 : Page Table Entry 3
+Logical Page Number 4 : Page Table Entry 4
+Logical Page Number 5 : Page Table Entry 5
+Logical Page Number 6 : Page Table Entry 6
+Logical Page Number 7 : Page Table Entry 7
+
+Process ID 2
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 24
+Logical Page Number 1 : Page Table Entry 25
+Logical Page Number 2 : Page Table Entry 26
+Logical Page Number 3 : Page Table Entry 27
+Logical Page Number 4 : Page Table Entry 28
+Logical Page Number 5 : Page Table Entry 29
+Logical Page Number 6 : Page Table Entry 30
+Logical Page Number 7 : Page Table Entry 31
+Logical Page Number 8 : Page Table Entry 32
+Logical Page Number 9 : Page Table Entry 33
+Logical Page Number 10 : Page Table Entry 34
+Logical Page Number 11 : Page Table Entry 35
+Logical Page Number 12 : Page Table Entry 36
+Logical Page Number 13 : Page Table Entry 37
+Logical Page Number 14 : Page Table Entry 38
+Logical Page Number 15 : Page Table Entry 39
+
+Process ID 3
+Process in Virtual Memory
+Logical Page Number 0 : Page Table Entry 16
+Logical Page Number 1 : Page Table Entry 17
+Logical Page Number 2 : Page Table Entry 18
+Logical Page Number 3 : Page Table Entry 19
+Logical Page Number 4 : Page Table Entry 20
+Logical Page Number 5 : Page Table Entry 21
+Logical Page Number 6 : Page Table Entry 22
+Logical Page Number 7 : Page Table Entry 23
+Logical Page Number 8 : Page Table Entry 24
+Logical Page Number 9 : Page Table Entry 25
+Logical Page Number 10 : Page Table Entry 26
+Logical Page Number 11 : Page Table Entry 27
+Logical Page Number 12 : Page Table Entry 28
+Logical Page Number 13 : Page Table Entry 29
+Logical Page Number 14 : Page Table Entry 30
+Logical Page Number 15 : Page Table Entry 31
+
+Process ID 4
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 8
+Logical Page Number 1 : Page Table Entry 9
+Logical Page Number 2 : Page Table Entry 10
+Logical Page Number 3 : Page Table Entry 11
+Logical Page Number 4 : Page Table Entry 12
+Logical Page Number 5 : Page Table Entry 13
+Logical Page Number 6 : Page Table Entry 14
+Logical Page Number 7 : Page Table Entry 15
+Logical Page Number 8 : Page Table Entry 16
+Logical Page Number 9 : Page Table Entry 17
+Logical Page Number 10 : Page Table Entry 18
+Logical Page Number 11 : Page Table Entry 19
+Logical Page Number 12 : Page Table Entry 20
+Logical Page Number 13 : Page Table Entry 21
+Logical Page Number 14 : Page Table Entry 22
+Logical Page Number 15 : Page Table Entry 23
+Logical Page Number 16 : Page Table Entry 40
+Logical Page Number 17 : Page Table Entry 41
+Logical Page Number 18 : Page Table Entry 42
+Logical Page Number 19 : Page Table Entry 43
+Logical Page Number 20 : Page Table Entry 44
+Logical Page Number 21 : Page Table Entry 45
+Logical Page Number 22 : Page Table Entry 46
+Logical Page Number 23 : Page Table Entry 47
+Logical Page Number 24 : Page Table Entry 48
+Logical Page Number 25 : Page Table Entry 49
+Logical Page Number 26 : Page Table Entry 50
+Logical Page Number 27 : Page Table Entry 51
+Logical Page Number 28 : Page Table Entry 52
+Logical Page Number 29 : Page Table Entry 53
+Logical Page Number 30 : Page Table Entry 54
+Logical Page Number 31 : Page Table Entry 55
+
+Sun Oct  1 12:04:12 2023
+
+Process ID 2
+Process in Virtual Memory
+Logical Page Number 0 : Page Table Entry 0
+Logical Page Number 1 : Page Table Entry 1
+Logical Page Number 2 : Page Table Entry 2
+Logical Page Number 3 : Page Table Entry 3
+Logical Page Number 4 : Page Table Entry 4
+Logical Page Number 5 : Page Table Entry 5
+Logical Page Number 6 : Page Table Entry 6
+Logical Page Number 7 : Page Table Entry 7
+Logical Page Number 8 : Page Table Entry 8
+Logical Page Number 9 : Page Table Entry 9
+Logical Page Number 10 : Page Table Entry 10
+Logical Page Number 11 : Page Table Entry 11
+Logical Page Number 12 : Page Table Entry 12
+Logical Page Number 13 : Page Table Entry 13
+Logical Page Number 14 : Page Table Entry 14
+Logical Page Number 15 : Page Table Entry 15
+
+Sun Oct  1 12:04:12 2023
+
+Process ID 1
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 0
+Logical Page Number 1 : Page Table Entry 1
+Logical Page Number 2 : Page Table Entry 2
+Logical Page Number 3 : Page Table Entry 3
+Logical Page Number 4 : Page Table Entry 4
+Logical Page Number 5 : Page Table Entry 5
+Logical Page Number 6 : Page Table Entry 6
+Logical Page Number 7 : Page Table Entry 7
+
+Process ID 2
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 8
+Logical Page Number 1 : Page Table Entry 9
+Logical Page Number 2 : Page Table Entry 10
+Logical Page Number 3 : Page Table Entry 11
+Logical Page Number 4 : Page Table Entry 12
+Logical Page Number 5 : Page Table Entry 13
+Logical Page Number 6 : Page Table Entry 14
+Logical Page Number 7 : Page Table Entry 15
+Logical Page Number 8 : Page Table Entry 16
+Logical Page Number 9 : Page Table Entry 17
+Logical Page Number 10 : Page Table Entry 18
+Logical Page Number 11 : Page Table Entry 19
+Logical Page Number 12 : Page Table Entry 20
+Logical Page Number 13 : Page Table Entry 21
+Logical Page Number 14 : Page Table Entry 22
+Logical Page Number 15 : Page Table Entry 23
+
+Process ID 3
+Process in Main Memory
+Logical Page Number 0 : Page Table Entry 24
+Logical Page Number 1 : Page Table Entry 25
+Logical Page Number 2 : Page Table Entry 26
+Logical Page Number 3 : Page Table Entry 27
+Logical Page Number 4 : Page Table Entry 28
+Logical Page Number 5 : Page Table Entry 29
+Logical Page Number 6 : Page Table Entry 30
+Logical Page Number 7 : Page Table Entry 31
+Logical Page Number 8 : Page Table Entry 32
+Logical Page Number 9 : Page Table Entry 33
+Logical Page Number 10 : Page Table Entry 34
+Logical Page Number 11 : Page Table Entry 35
+Logical Page Number 12 : Page Table Entry 36
+Logical Page Number 13 : Page Table Entry 37
+Logical Page Number 14 : Page Table Entry 38
+Logical Page Number 15 : Page Table Entry 39
+
